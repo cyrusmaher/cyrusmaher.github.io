@@ -4,4 +4,4 @@ permalink: /software/
 title: Software
 tagline: Daaaah code
 ---
-More coming soon :)
+More soon :)
