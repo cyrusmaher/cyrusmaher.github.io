@@ -4,6 +4,6 @@ description: "Homepage of M. Cyrus Maher"
 tags: 
 image:
   feature: port_cropped.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  credit: Svet Ivantchev
+  creditlink: https://www.flickr.com/photos/svet/
 ---
