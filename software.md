@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-index
 permalink: /software/
 title: Software
 tagline: Daaaah code
