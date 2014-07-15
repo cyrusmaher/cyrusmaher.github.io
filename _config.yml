@@ -28,15 +28,15 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Me
-    url: /about/
+    url: about/
   - title: Projects
-    url: /projects/
+    url: projects/
   - title: Software
-    url: /software/
+    url: software/
   - title: Gallery
-    url: /gallery/
+    url: gallery/
   - title: Blog
-    url: /blog/
+    url: blog/
 
 
 
