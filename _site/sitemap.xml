@@ -14,6 +14,10 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/blog/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/cv/</loc>
     </url>
     
@@ -27,10 +31,6 @@
     
     <url>
         <loc>http://localhost:4000/index.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/posts/</loc>
     </url>
     
     <url>
@@ -52,27 +52,15 @@
 
     
     <url>
-        <loc>http://localhost:4000/code-highlighting-post/</loc>
+        <loc>http://localhost:4000/blog/fairwell-academia/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sample-link-post/</loc>
+        <loc>http://localhost:4000/projects/MOSAIC-Rejected/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/readability-feature-post/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/sample-post-images/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/readability-post/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/sample-post/</loc>
+        <loc>http://localhost:4000/projects/HS-MOSAIC/</loc>
     </url>
     
 </urlset>

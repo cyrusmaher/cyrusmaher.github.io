@@ -65,7 +65,7 @@
 <!-- 16x16 -->
 <link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
 <!-- 32x32 -->
-<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
+<span class="mega-octicon octicon-light-bulb"></span>
 <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
 <link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
 <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
@@ -77,7 +77,7 @@
 
 </head>
 
-<body class="page">
+<body class="post-index">
 
 <!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
 
@@ -97,7 +97,7 @@
 		        
 				<li><a href="http://localhost:4000/gallery/" >Gallery</a></li>
 		        
-				<li><a href="http://localhost:4000/posts/" >Posts</a></li>
+				<li><a href="http://localhost:4000/blog/" >Blog</a></li>
 		        
 		    </ul>
 		</nav>
@@ -106,13 +106,12 @@
 
 
 
-<div id="main" role="main">
-  <div class="article-author-side">
-    
+<div class="article-author-side">
+  
 	<img src="http://localhost:4000/images/Cyrus_pic_circular.png" class="bio-photo" alt="Cyrus Maher bio photo"></a>
 
 <h3>Cyrus Maher</h3>
-<p>Hi!</p>
+<p>Data scientist passionate about genomics and the future of medicine</p>
 <a href="http://twitter.com/CyrusMaher" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
 
 
@@ -126,15 +125,76 @@
 
 
 
-  </div>
-  <article>
-    <h1>Projects</h1>
-    <div class="article-wrap">
-      <p>More soon :)</p>
+</div>
 
-    </div><!-- /.article-wrap -->
+<div id="index">
+  <h1>Projects</h1>
+  <div class="article-wrap">
+      <style type="text/css">
+.thumbnail{
+z-index: 0;
+}
+
+.thumbnail:hover{
+background-color: transparent;
+z-index: 50;
+}
+
+.thumbnail span{ /*CSS for enlarged image*/
+position: absolute;
+display: block; 
+left: -1000px;
+visibility: hidden;
+color: red;
+text-decoration: none;
+}
+
+.thumbnail span img{ /*CSS for enlarged image*/
+border-width: 0;
+padding: 2px;
+}
+
+.thumbnail:hover span{ /*CSS for enlarged image on hover*/
+visibility: visible;
+top: 10px;
+left: 13px; /*position where enlarged image should offset horizontally */
+overflow:hidden;
+}
+</style>
+
+<p>For a bird’s-eye view of the projects I’ve been working on, feel free to click on the thumbnail below. For more details, go on and check out the posts!
+<br />
+<br />
+<a href="http://localhost:4000/images/Maher_projects_overview.jpg"><img src="http://localhost:4000/images/Maher_projects_overview.jpg" width="100px" height="72px" border="0" /></a></p>
+
+  </div>
     
-  </article>
+  
+      
+      
+      
+    
+    <article>
+      
+        <h2><a href="http://localhost:4000/projects/MOSAIC-Rejected/" title="MOSAIC: stalled by sneer review">MOSAIC: stalled by sneer review</a></h2>
+        <p>After months of waiting, MOSAIC was rejected by a single reviewer on grounds thorougly negated by our data.</p>
+      
+    </article>
+    
+  
+      
+      
+      
+        <h3>2013</h3>
+      
+    
+    <article>
+      
+        <h2><a href="http://localhost:4000/projects/HS-MOSAIC/" title="MOSAIC: Haldane's Sieve blog post is up!">MOSAIC: Haldane's Sieve blog post is up!</a></h2>
+        <p>We got the chance to write an more conversational description of our new tool.</p>
+      
+    </article>
+  
 </div><!-- /#index -->
 
 <div class="footer-wrap">
@@ -164,7 +224,7 @@
   })();
 </script>
 
-          
 
+  
 </body>
 </html>

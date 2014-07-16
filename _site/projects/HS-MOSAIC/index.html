@@ -5,9 +5,9 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>All Posts &#8211; cyrusmaher.github.io</title>
-<meta name="description" content="">
-<meta name="keywords" content="blog">
+<title>MOSAIC: Haldane's Sieve blog post is up! &#8211; cyrusmaher.github.io</title>
+<meta name="description" content="We got the chance to write an more conversational description of our new tool.">
+<meta name="keywords" content="software, ortholog detection">
 <!-- Twitter Cards -->
 	
 		<meta name="twitter:card" content="summary">
@@ -19,24 +19,24 @@
 			
 		>
 	
-	<meta name="twitter:title" content="All Posts">
-	<meta name="twitter:description" content="">
+	<meta name="twitter:title" content="MOSAIC: Haldane's Sieve blog post is up!">
+	<meta name="twitter:description" content="We got the chance to write an more conversational description of our new tool.">
 	<meta name="twitter:creator" content="@CyrusMaher">
 
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="All Posts">
-<meta property="og:description" content="">
-<meta property="og:url" content="http://localhost:4000/posts/">
+<meta property="og:title" content="MOSAIC: Haldane's Sieve blog post is up!">
+<meta property="og:description" content="We got the chance to write an more conversational description of our new tool.">
+<meta property="og:url" content="http://localhost:4000/projects/HS-MOSAIC/">
 <meta property="og:site_name" content="cyrusmaher.github.io">
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/posts/">
+<link rel="canonical" href="http://localhost:4000/projects/HS-MOSAIC/">
 <link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="cyrusmaher.github.io Feed">
 
 
@@ -65,7 +65,7 @@
 <!-- 16x16 -->
 <link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
 <!-- 32x32 -->
-<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
+<span class="mega-octicon octicon-light-bulb"></span>
 <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
 <link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
 <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
@@ -77,7 +77,7 @@
 
 </head>
 
-<body class="post-index">
+<body class="post">
 
 <!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
 
@@ -97,7 +97,7 @@
 		        
 				<li><a href="http://localhost:4000/gallery/" >Gallery</a></li>
 		        
-				<li><a href="http://localhost:4000/posts/" >Posts</a></li>
+				<li><a href="http://localhost:4000/blog/" >Blog</a></li>
 		        
 		    </ul>
 		</nav>
@@ -106,12 +106,13 @@
 
 
 
-<div class="article-author-side">
-  
+<div id="main" role="main">
+  <div class="article-author-side">
+    
 	<img src="http://localhost:4000/images/Cyrus_pic_circular.png" class="bio-photo" alt="Cyrus Maher bio photo"></a>
 
 <h3>Cyrus Maher</h3>
-<p>Hi!</p>
+<p>Data scientist passionate about genomics and the future of medicine</p>
 <a href="http://twitter.com/CyrusMaher" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
 
 
@@ -125,87 +126,63 @@
 
 
 
-</div>
+  </div>
+  <article>
+    <div class="headline-wrap">
+      
+        <h1><a href="http://localhost:4000/projects/HS-MOSAIC/" rel="bookmark" title="MOSAIC: Haldane's Sieve blog post is up!">MOSAIC: Haldane's Sieve blog post is up!</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <p>A couple weeks back, we posted the <a href="http://arxiv.org/abs/1309.2319">manuscript</a> for our new ortholog detection method, MOSAIC . Since then, we’ve had the opportunity to blog about it on Haldane’s sieve. You can read the post <a href="http://haldanessieve.org/2013/10/21/author-post-a-mosaic-of-methods-improving-ortholog-detection-through-integration-of-algorithmic-diversity/">here</a>. Below is a little teaser, showing that ortholog methods frequently outperform one another. This motivates the development of MOSAIC as a way to take advantage of this complementarity.</p>
 
-<div id="index">
-  <h1>All Posts</h1>
-    
+<figure>
+    <img src="http://localhost:4000/images/PairwiseHeatMap_Blues_pluslab_neworder.png" height="400" width="400" border="0" align="middle" />
+    <figcaption><b>Comparison of sequence identity levels between methods </b> A.) Heat map of the percent of orthologs for which BLAT (BL), OMA (OMA), MultiParanoid (MP), and MultiZ (MZ) outperform one another. Performance is based on percent identity of each method’s orthologs to the human sequence. One method is considered to outperform another method if it improves percent identity by at least five percentage points. Text in diagonal cells shows the number of orthologs identified by each method, colored by the percent of transcripts at which a given method outperforms all the others.</figcaption>
+</figure>
+
+
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          
+	<img src="http://localhost:4000/images/Cyrus_pic_circular.png" class="bio-photo" alt="Cyrus Maher bio photo"></a>
+
+<h3>Cyrus Maher</h3>
+<p>Data scientist passionate about genomics and the future of medicine</p>
+<a href="http://twitter.com/CyrusMaher" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
+
+
+<a href="http://linkedin.com/in/cyrusmaher" class="author-social" target="_blank"><i class="fa fa-linkedin-square"></i> LinkedIn</a>
+
+
+<a href="http://github.com/cyrusmaher" class="author-social" target="_blank"><i class="fa fa-github"></i> Github</a>
+
+
+
+
+
+
+        </div>
+        <p class="byline"><strong>MOSAIC: Haldane's Sieve blog post is up!</strong> was published on <time datetime="2013-10-21T00:00:00-07:00">October 21, 2013</time> by <a href="http://localhost:4000/about" title="About Cyrus Maher">Cyrus Maher</a>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
   
-    <h3>2013</h3>
-    
-    <article>
-      
-        <h2><a href="http://localhost:4000/code-highlighting-post/" title="Syntax Highlighting Post">Syntax Highlighting Post</a></h2>
-        <p>Demo post displaying the various ways of highlighting code in Markdown.</p>
-      
-    </article>
-    
-  
-      
-      
-      
-    
-    <article>
-      
-        <h2 class="link-post"><a href="http://localhost:4000/sample-link-post/" title="Sample Link Post">Sample Link Post</a> <a href="http://mademistakes.com" target="_blank" title="Sample Link Post"><i class="icon-link"></i></h2>
-      
-    </article>
-    
-  
-      
-      
-      
-    
-    <article>
-      
-        <h2><a href="http://localhost:4000/readability-feature-post/" title="Post with Large Feature Image and Text">Post with Large Feature Image and Text</a></h2>
-        <p>Custom written post descriptions are the way to go... if you're not lazy.</p>
-      
-    </article>
-    
-  
-      
-      
-      
-    
-    <article>
-      
-        <h2><a href="http://localhost:4000/sample-post-images/" title="A Post with Images">A Post with Images</a></h2>
-        <p>Examples and code for displaying images in posts.</p>
-      
-    </article>
-    
-  
-      
-      
-      
-        <h3>2012</h3>
-      
-    
-    <article>
-      
-        <h2><a href="http://localhost:4000/readability-post/" title="Testing Readability with a Bunch of Text">Testing Readability with a Bunch of Text</a></h2>
-        <p>A ton of text to test readability.</p>
-      
-    </article>
-    
-  
-      
-      
-      
-        <h3>2011</h3>
-      
-    
-    <article>
-      
-        <h2><a href="http://localhost:4000/sample-post/" title="Sample Post">Sample Post</a></h2>
-        <p>Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.</p>
-      
-    </article>
-  
-</div><!-- /#index -->
+  </article>
+</div><!-- /#main -->
 
 <div class="footer-wrap">
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://localhost:4000/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://localhost:4000/blog/fairwell-academia/" title="Fairwell academia!">Fairwell academia!</a></li>
+    
+      <li><a href="http://localhost:4000/projects/MOSAIC-Rejected/" title="MOSAIC: stalled by sneer review">MOSAIC: stalled by sneer review</a></li>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
   <footer>
     <span>&copy; 2014 Cyrus Maher. Powered by <a href="http://jekyllrb.com">Jekyll</a>.</span>
 
@@ -232,7 +209,7 @@
   })();
 </script>
 
+	        
 
-  
 </body>
 </html>

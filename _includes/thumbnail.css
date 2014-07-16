@@ -1,0 +1,31 @@
+<style type="text/css">
+.thumbnail{
+z-index: 0;
+}
+
+.thumbnail:hover{
+background-color: transparent;
+z-index: 50;
+}
+
+.thumbnail span{ /*CSS for enlarged image*/
+position: absolute;
+display: block; 
+left: -1000px;
+visibility: hidden;
+color: red;
+text-decoration: none;
+}
+
+.thumbnail span img{ /*CSS for enlarged image*/
+border-width: 0;
+padding: 2px;
+}
+
+.thumbnail:hover span{ /*CSS for enlarged image on hover*/
+visibility: visible;
+top: 10px;
+left: 13px; /*position where enlarged image should offset horizontally */
+overflow:hidden;
+}
+</style>
