@@ -27,5 +27,5 @@ I love rock climbing, soccer, hiking, and meditation. I became interested in hea
 through volunteer experiences in Ecuador and Honduras. I'm engaged to the love of my life. She is awesome. We have two cute doggies too!
 
 <figure>
-    <img src="{{ site.url }}/images/DaisyandCyrus.jpg" HEIGHT="180" WIDTH="180" BORDER="100" ALIGN="left">
+    <img src="{{ site.url }}/images/DaisyandCyrus.JPG" HEIGHT="180" WIDTH="180" BORDER="100" ALIGN="left">
 </figure>

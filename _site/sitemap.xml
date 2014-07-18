@@ -1,66 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:4000</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/404.html</loc>
+        <loc>/404.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/about/</loc>
+        <loc>/about/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/blog/</loc>
+        <loc>/blog/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/cv/</loc>
+        <loc>/cv/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/feed.xml</loc>
+        <loc>/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/gallery/</loc>
+        <loc>/gallery/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/index.html</loc>
+        <loc>/index.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/projects/</loc>
+        <loc>/projects/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sitemap.xml</loc>
+        <loc>/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/software/</loc>
+        <loc>/software/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/theme-setup/</loc>
+        <loc>/theme-setup/</loc>
     </url>
     
 
     
     <url>
-        <loc>http://localhost:4000/blog/fairwell-academia/</loc>
+        <loc>/blog/fairwell-academia/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/projects/MOSAIC-Rejected/</loc>
+        <loc>/projects/CauseMap-Submitted/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/projects/HS-MOSAIC/</loc>
+        <loc>/projects/MOSAIC-Rejected/</loc>
+    </url>
+    
+    <url>
+        <loc>/projects/HS-MOSAIC/</loc>
     </url>
     
 </urlset>
