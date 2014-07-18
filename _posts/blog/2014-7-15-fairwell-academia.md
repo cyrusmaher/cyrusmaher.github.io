@@ -22,7 +22,7 @@ As you can see below, in 2011 there were ~35,000 new PhD graduates, but only abo
 
 #### Pulling the trigger
 
-The decision to leave academia has been compared to a [break-up](http://anothersb.blogspot.com/2014/04/dear-academia-i-loved-you-but-im.html). For me, it's been a surprisingly emotional decision, especially when I feel like I'm letting down people I care about. But at the end of the day, I've thought this through backwards and forwards, and I know in my bones that it's right, so I've just gotta go for it.
+The decision to leave academia has been compared to a [break up](http://anothersb.blogspot.com/2014/04/dear-academia-i-loved-you-but-im.html). For me, it's been a surprisingly emotional decision, especially when I feel like I'm letting down people I care about. But at the end of the day, I've thought this through backwards and forwards, and I know in my bones that it's right, so I've just gotta put on my big boy pants and go for it.
 
 My father also had a shot at becoming a professor, but he too went into industry instead. He took a job at Union Carbide, in part so that he could support my mom and older brother. During his ~30 year tenure at the company, he produced more than 40 patents. He didn't gain much visibility from his work, but his insights were applied to globally distributed products. Today, you probably can't go an afternoon without touching something made better or cheaper by his work. 
 
