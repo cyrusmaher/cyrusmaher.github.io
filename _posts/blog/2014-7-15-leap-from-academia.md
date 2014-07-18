@@ -6,10 +6,10 @@ description: "After much thought, I am (happily) leaving academic life"
 tags: [sample post, code, highlighting]
 comments: true
 ---
-Many bloggers have written vividly about the bittersweet process of leaving academia. Yet, the stories are strikingly similar. At a certain point, the pressure, the uncertainty, the long hours, the low-ish wages, and the endless moving from city to city simply become cumulatively unsustainable. One comes to realize that most of these circumstances do not recede if one beats the odds and lands a junior faculty position. One recognizes that, for better or for worse, this is the deal. Take it or leave it.
+Many bloggers have written vividly about the bittersweet process of leaving academia. Yet, the stories are strikingly similar. At a certain point, the pressure, the uncertainty, the long hours, the low-ish wages, and the endless moving from city to city simply become cumulatively unsustainable. One comes to realize that most of these circumstances do not recede if one beats the odds and lands a junior faculty position. For better or for worse, this is the deal. Do you like it or not?
 
 #### Thinking about leaving
-I once overheard an undergraduate researcher ask a junior faculty member about getting into academic science. His reply was simple, "If you can imagine yourself doing anything else, go do that." At the time I felt his advice to be overly pessimistic. Now, I have to say that I agree with him, so I'm going to go do something else. Similar to Lenny Teytelman's [experience of leaving academia](http://anothersb.blogspot.com/2014/02/goodbye-academia.html), "I feel liberated and happy, and this is a very bad sign for the future of life sciences in the United States." I'll table this last part for another day, though :)
+Personally, I feel...worn down by the whole process. I once overheard an undergraduate researcher ask a junior faculty member about getting into academic science. His reply was simple, "If you can imagine yourself doing anything else, go do that." At the time I felt his advice to be a bit harsh. Now, I have to say that I get where he was coming from. So I'm going to go do something else. Similar to Lenny Teytelman's [experience of leaving academia](http://anothersb.blogspot.com/2014/02/goodbye-academia.html), "I feel liberated and happy, and this is a very bad sign for the future of life sciences in the United States." Given how far this last part is from my locus of control, however, I'm focusing mostly on the "liberated and happy" part :)
 
 
 #### The data behind the decision
@@ -22,7 +22,7 @@ As you can see below, in 2011 there were ~35,000 new PhD graduates, but only abo
 
 #### Making the leap
 
-The decision to leave academia has been compared to a [break up](http://anothersb.blogspot.com/2014/04/dear-academia-i-loved-you-but-im.html). For me, it's been a surprisingly emotional decision, especially when I feel like I'm letting down people I care about. But at the end of the day, I've thought this through backwards and forwards, and I know in my bones that it's right. So I've just gotta put on my big boy pants and go for it.
+The process of leaving academia has been compared to a [break up](http://anothersb.blogspot.com/2014/04/dear-academia-i-loved-you-but-im.html). For me, it's been a surprisingly emotional decision, especially when people I care about seem to feel let down by my decision. But at the end of the day, I've thought this through backwards and forwards, and I know in my bones that it's right. So I've just gotta put on my big boy pants and go for it.
 
 My father also had a shot at becoming a professor, but he too went into industry instead. He took a job at Union Carbide, in part so that he could support my mom and older brother. During his ~30 year tenure at the company, he produced more than 40 patents. He didn't gain much visibility from his work, but his insights were applied to globally distributed products. Today, you probably can't go an afternoon without touching something made better or cheaper by his work. 
 
@@ -36,7 +36,7 @@ I provide this anecdote a.) because I'm proud of my dad, and b.) to make the poi
 <br>
 
 #### (Unsollicited) advice for graduate students
-The complexion of science has changed rapidly over the last decade. As a result, conventional wisdom often is not consistent with present circumstances. Graduate students and postdocs need to take an active role in evaluating the situation for themselves, and in demanding greater support in preparing for their most likely career outcomes. Going into industry is not failing or selling out. "Industry" isn't even really a thing. For many, it's a catch-all term for "that not-academia stuff I never experienced". If you wonder what it's like, go and look up some job postings in your area. If you find something that looks interesting, considering tailoring your training to prepare yourself for that type of job.
+The staffing situation in science has changed rapidly over the last decade. As a result, conventional wisdom often is not consistent with present circumstances. Graduate students and postdocs need to take an active role in evaluating the situation for themselves, and in demanding greater support in preparing for their most likely career outcomes. Going into industry is not failing or selling out. "Industry" isn't even really a thing. For many, it's a catch-all term for "that not-academia stuff I never experienced". If you wonder what it's like, go and look up some job postings in your area of expertise. If you find something that looks interesting, considering tailoring your training to better prepare yourself for that type of job.
 
 <br>
 
