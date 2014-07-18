@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Fairwell academia!
+title: "Taking the leap out of academia"
 category: blog
 description: "After much thought, I am (happily) leaving academic life"
 tags: [sample post, code, highlighting]
 comments: true
 ---
-Many bloggers have written vividly about the bittersweet process of leaving academia. The stories are strikingly similar. At a certain point, the pressure, the uncertainty, the long hours, the low-ish wages, and the endless moving from city to city simply become cumulatively unsustainable. One comes to realize that most of these circumstances do not abate if one beats the odds and lands a junior faculty position. One recognizes that, for better or for worse, this is the deal. Take it or leave it.
+Many bloggers have written vividly about the bittersweet process of leaving academia. Yet, the stories are strikingly similar. At a certain point, the pressure, the uncertainty, the long hours, the low-ish wages, and the endless moving from city to city simply become cumulatively unsustainable. One comes to realize that most of these circumstances do not recede if one beats the odds and lands a junior faculty position. One recognizes that, for better or for worse, this is the deal. Take it or leave it.
 
 #### Thinking about leaving
 I once overheard an undergraduate researcher ask a junior faculty member about getting into academic science. His reply was simple, "If you can imagine yourself doing anything else, go do that." At the time I felt his advice to be overly pessimistic. Now, I have to say that I agree with him, so I'm going to go do something else. Similar to Lenny Teytelman's [experience of leaving academia](http://anothersb.blogspot.com/2014/02/goodbye-academia.html), "I feel liberated and happy, and this is a very bad sign for the future of life sciences in the United States." I'll table this last part for another day, though :)
 
 
 #### The data behind the decision
-As you can see below, in 2011 there were ~35,000 new PhD graduates, but only about ~3,000 faculty openings. Academic science is overstaffed, and that is leading to unhealthy levels of competition for those who remain. Despite this persistent trend, Francis Collins has stated that he does not believe there is an oversupply of PhDs. This is partly because, even as the situation in academia is becoming increasingly dire, the "unreasonable effectiveness of data" is leading to an explosion of research positions in industries from advertising to [biomedicine](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_06_13/science.opms.r1400143). In short, we _are_ needed, but mostly not in academia.
+As you can see below, in 2011 there were ~35,000 new PhD graduates, but only about ~3,000 faculty openings. Academic science is overstaffed, and that is leading to unhealthy levels of competition for those who remain. Despite this persistent trend, Francis Collins has stated that [he does not believe there is an oversupply of PhDs](http://www.nature.com/naturejobs/science/articles/10.1038/nj7508-255a). This is partly because, even as the situation in academia is becoming increasingly dire, the "unreasonable effectiveness of data" is leading to an explosion of research positions in industries from advertising to [biomedicine](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_06_13/science.opms.r1400143). In short, we _are_ needed, but mostly not in academia.
 
 <figure>
     <a href="http://anothersb.blogspot.com/2014/07/who-will-train-tomorrows-scientists.html"><img src="{{ site.url }}/images/ScienceOverstaffed.jpg" HEIGHT="400" WIDTH="600" BORDER="500" ALIGN="middle"> </a>
@@ -38,14 +38,42 @@ I provide this anecdote a.) because I'm proud of my dad, and b.) to make the poi
 #### (Unsollicited) advice for graduate students
 The complexion of science has changed rapidly over the last decade. As a result, conventional wisdom often is not consistent with present circumstances. Graduate students and postdocs need to take an active role in evaluating the situation for themselves, and in demanding greater support in preparing for their most likely career outcomes. Going into industry is not failing or selling out. "Industry" isn't even really a thing. For many, it's a catch-all term for "that not-academia stuff I never experienced". If you wonder what it's like, go and look up some job postings in your area. If you find something that looks interesting, considering tailoring your training to prepare yourself for that type of job.
 
+<br>
+
 ### Background reading
 
-#### Personal Experiences
+#### A selection of personal Experiences
 - [A giant leap](http://m.sciencemag.org/content/345/6192/110)
+
+> Most of this has been rewarding. But in the overly busy mode that most researchers operate in, I found I was feeling less
+> bullish about academia as I knew it and increasingly uncertain it was the right fit....
+> "If [impact] is my measure for success, [I thought,] "What work must I do to achieve it?” I did some deep thinking and realized that my conservation work—not my academic research—was the work that would help me achieve those lofty goals.
+
 - [The seven stages of grief for an academic career](http://bioluminate.blogspot.com/2014/02/the-seven-stages-of-grief-for-academic.html)
+
+> I am now halfway through my 35th year and I have to admit I’m not where I thought I would be...I have come to realize that for a variety of reasons I am unlikely to achieve my lifelong goal of becoming a tenured track professor.  I am letting go of some of the... [constant] worrying about the treadmill of the next paper, the next grant, the next position...To get to this place I went through a lot of heartache and depression that closely followed the 7 stages of grief....
+
 - [My life as a PhD Scientist](http://anothersb.blogspot.com/2014/03/my-life-as-phd-scientist-you-should.html)
+
+> I am broke.  The System is broke.  And this is my story...I put the last eight years of my life on hold, and I’ve set myself up to keep it on hold for the next 5-10 years as a postdoc.  But I’m tired of this.  I want to go to the movies.  I want a dog.  I want a family.  I want to live my life.
+
 - [Who will train tomorrow's scientists?](Who will train tomorrow's scientists?)
+
+> This is the part that worries me the most. We have too many PhDs competing for postdocs. We have too many postdocs competing for fellowships and faculty positions. And we have too many professors, competing for grants. Combined, the low pay, hyper-competition, and the guaranteed uncertainty at every step make the academic track a bad career choice today.
+
+<br>
+
+#### A comprehensive list of "QuitLit"
+Quitlit is a genre of entire blog post devoted solely to the experience of leaving academia. Read what other people have written, or contribute your own story [here](https://docs.google.com/spreadsheet/ccc?key=0AtQWPM4nERNNdHozb1lOVHZVN1p0a2pjOEtaUTVBSHc&usp=sharing).
+ 
+ <br>
+
+#### Keith Yamamoto: Time to rethink grad and postdoc education
+<iframe width="854" height="510" src="//www.youtube.com/embed/10DAHpA_B9k" frameborder="0" allowfullscreen></iframe>
+
+<br>
 
 #### A look at the system
 - [Rescuing Biomedical Research](http://www.pnas.org/content/111/16/5773.full)
 - [Michael Eisen's take on how to fix things](http://www.michaeleisen.org/blog/?p=1270)
+- [PhD Overdrive](http://www.nature.com/naturejobs/science/articles/10.1038/nj7508-255a)
