@@ -64,7 +64,9 @@ The staffing situation in science has changed rapidly over the last decade. As a
 <br>
 
 #### A comprehensive list of "QuitLit"
-Quitlit is an entire genre of blog post devoted solely to the experience of leaving academia. Read what other people have written, or contribute your own story [here](https://docs.google.com/spreadsheet/ccc?key=0AtQWPM4nERNNdHozb1lOVHZVN1p0a2pjOEtaUTVBSHc&usp=sharing).
+Quitlit is an entire genre of blog post devoted solely to the experience of leaving academia. Find what other people have written, or contribute your own story [here](https://docs.google.com/spreadsheet/ccc?key=0AtQWPM4nERNNdHozb1lOVHZVN1p0a2pjOEtaUTVBSHc&usp=sharing). For convenience, you can also browse below:
+
+<embed src="https://docs.google.com/spreadsheet/pub?key=0AtQWPM4nERNNdHozb1lOVHZVN1p0a2pjOEtaUTVBSHc&single=true&gid=0&output=html">
  
  <br>
 
