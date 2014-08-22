@@ -9,7 +9,7 @@ comments: true
 Many bloggers have written vividly about the bittersweet process of leaving academia. Yet, the stories are strikingly similar. At a certain point, the pressure, the uncertainty, the long hours, the low-ish wages, and the endless moving from city to city simply become cumulatively unsustainable. One comes to realize that most of these circumstances do not recede if one beats the odds and lands a junior faculty position. For better or for worse, this is the deal. Do you like it or not?
 
 #### Thinking about leaving
-Personally, I feel...worn down by the whole process. I once overheard an undergraduate researcher ask a junior faculty member about getting into academic science. His reply was simple, "If you can imagine yourself doing anything else, go do that." At the time I felt his advice to be a bit harsh. Now, I have to say that I get where he was coming from. So I'm going to go do something else. Similar to Lenny Teytelman's [experience of leaving academia](http://anothersb.blogspot.com/2014/02/goodbye-academia.html), "I feel liberated and happy, and this is a very bad sign for the future of life sciences in the United States." Given how far this last part is from my locus of control, however, I'm focusing mostly on the "liberated and happy" part :)
+Personally, I feel...worn down by the slow and uncertain grind through the academic ranks. I once overheard an undergraduate researcher ask a junior faculty member about getting into academic science. His reply was simple, "If you can imagine yourself doing anything else, go do that." At the time I felt his advice to be a bit harsh. Now, I have to say that I get where he was coming from. So I'm going to go do something else. Similar to Lenny Teytelman's [experience of leaving academia](http://anothersb.blogspot.com/2014/02/goodbye-academia.html), "I feel liberated and happy, and this is a very bad sign for the future of life sciences in the United States." Given how far this last part is from my locus of control, however, I'm focusing mostly on the "liberated and happy" part :)
 
 
 #### The data behind the decision
@@ -79,3 +79,4 @@ Quitlit is an entire genre of blog post devoted solely to the experience of leav
 - [Rescuing Biomedical Research](http://www.pnas.org/content/111/16/5773.full)
 - [Michael Eisen's take on how to fix things](http://www.michaeleisen.org/blog/?p=1270)
 - [PhD Overdrive](http://www.nature.com/naturejobs/science/articles/10.1038/nj7508-255a)
+- [Ailing academia needs culture change](http://www.sciencemag.org/content/345/6199/885.2.short)
