@@ -70,11 +70,6 @@ Quitlit is an entire genre of blog post devoted solely to the experience of leav
  
  <br>
 
-#### Keith Yamamoto: Time to rethink grad and postdoc education
-<iframe width="854" height="510" src="//www.youtube.com/embed/10DAHpA_B9k" frameborder="0" allowfullscreen></iframe>
-
-<br>
-
 #### A look at the system
 - [Rescuing Biomedical Research](http://www.pnas.org/content/111/16/5773.full)
 - [Michael Eisen's take on how to fix things](http://www.michaeleisen.org/blog/?p=1270)
