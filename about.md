@@ -11,20 +11,14 @@ image:
 ---
 
 #### Professional
-I have deep training in statistical computing, machine 
-learning, chemical biology, and epidemiology.  In August, I will be finishing 
-my PhD after three years.
-By the time I am done, I will have completed
-seven primary author manuscripts and 
-two software packages.  It is my goal
-to leverage this diverse blend of training to contribute
-meaningfully to the treatment and prevention of human disease.
-
+I am a Software Engineer at Human Longevity Inc. We leverage massive amounts of 
+sequencing, phenotyping, and metabolics data to extend healthy human life. 
 <br>
 
 #### Personal
 I love rock climbing, soccer, hiking, and meditation. I became interested in health research
-through volunteer experiences in Ecuador and Honduras. I'm engaged to the love of my life. She is awesome. We have two cute doggies too!
+through volunteer experiences in Ecuador, Honduras, and Nicaragua. I am also lucky enough to be engaged to Daisy, the love of my life. 
+We have two cute doggies too!
 
 <figure>
     <img src="{{ site.url }}/images/DaisyandCyrus.JPG" HEIGHT="180" WIDTH="180" BORDER="100" ALIGN="left">
