@@ -2,7 +2,7 @@
 layout: post
 title: "Sticking the landing in Biotech"
 category: blog
-description: "After much thought, I am (happily) leaving academic life"
+description: "Going into industry was a fantastic decision."
 tags: [academia, industry, career]
 comments: true
 ---
