@@ -2,56 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">cyrusmaher.github.io</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2014-07-18T17:03:24-07:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://cyrusmaher.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://cyrusmaher.github.io" />
+<updated>2015-07-12T14:48:08-07:00</updated>
+<id>http://cyrusmaher.github.io/</id>
 <author>
   <name>Cyrus Maher</name>
-  <uri>/</uri>
+  <uri>http://cyrusmaher.github.io/</uri>
   <email>cyrusmaher@gmail.com</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[Update on the job search so far]]></title>
-  <link rel="alternate" type="text/html" href="/blog/job-search-so-far/" />
-  <id>/blog/job-search-so-far</id>
-  <published>2014-07-18T00:00:00-07:00</published>
-  <updated>2014-07-18T00:00:00-07:00</updated>
+  <title type="html"><![CDATA[Sticking the landing in Biotech]]></title>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/blog/sticking-landing-in-biotech/" />
+  <id>http://cyrusmaher.github.io/blog/sticking-landing-in-biotech</id>
+  <published>2015-06-30T00:00:00-07:00</published>
+  <updated>2015-06-30T00:00:00-07:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri></uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;/images/jobsearchsofar.jpg&quot; height=&quot;400&quot; width=&quot;600&quot; border=&quot;500&quot; align=&quot;middle&quot; /&gt; &lt;/p&gt;
+  <content type="html">&lt;p&gt;It has been nearly a year since I decided to forego a post-doctoral research position in favor of applying directly to jobs in biotech. I am  so happy I did!! Let me tell you why :)&lt;/p&gt;
+
+&lt;h3 id=&quot;choosing-a-path-after-graduation&quot;&gt;Choosing a path after graduation&lt;/h3&gt;
+
+&lt;p&gt;During my PhD, I focused heavily on developing statistical, computational, and subject matter-specific skills that would 1.) allow me to meaningfully contribute to improving human health; and 2.) give me and my family a broad range of options going forward. At the end of my training, it felt like all that hard work had paid off. I had a number of enticing job offers in front of me, but one stood head and shoulders above the rest. &lt;a href=&quot;http://www.humanlongevity.com/&quot;&gt;Human Longevity Inc.&lt;/a&gt; (HLI) offered me the chance to work in a vibrant, health-focused research environment, empowered by abundant and mutually reinforcing institutional resources. My job would be to work as part of a diverse team of software engineers, machine learning experts, and bioinformaticians to translate years of progress in the basic sciences into improved and extended quality of life for, say, my Mom and Dad. Oh, and we’d have more next-generation sequencing data than the rest of the world combined! I felt like I had the chance to actually help build the clinical sequencing revolution. I couldn’t pass up that opportunity. &lt;figure&gt;
+&lt;a href=&quot;http://www.humanlongevity.com/&quot;&gt;&lt;img src=&quot;/images/hli-logo-share_cropped.png&quot; width=&quot;200&quot; border=&quot;-20&quot; align=&quot;middle&quot; hspace=&quot;0&quot; /&gt; &lt;/a&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;looking-back-after-eight-months-on-the-job&quot;&gt;Looking back after eight months on the job&lt;/h3&gt;
+
+&lt;p&gt;When I interviewed last Fall, HLI was just booting up and had I think 20 employees or so. There was a sense of promise and potential, but also a fair number of day-to-day headaches. We didn’t yet have our data infrastructure build, so there was a great deal of redundant grunt work to cleanse data, reconcile file formats, etc. There were also only three people in our Mountain View office when I joined, so it was also just a little too quiet. &lt;/p&gt;
+
+&lt;p&gt;Today, HLI is approaching 120 employees. In the Mountain View office, we now have 15 research scientists, with two more starting on Monday. Much of our data analysis infrastructure has come together, and it’s now straightforward to run an association study on anything from cardiovascular disease to Alzheimers to aging using data from a diverse array of sources. There are still plenty of “big data” problems to work out, but that’s part of the fun! In the meantime, we’re already uncovered some publishable results that could eventually help patients. &lt;/p&gt;
+
+&lt;h3 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h3&gt;
+&lt;p&gt;I’m more excited each day about what I get to do for a living. At the same time, I’m realistic. I don’t expect my job to be some kind of intellectual paradise that can substitute for living a well-balanced life. Work almost inevitably includes plenty of frustrations and set-backs. The key thing for me is that at the end of the day, it all feels worth it. Right now, I feel like I’m devoting these years of my life to work as a valued member of a team towards projects that could prevent or heal human suffering in a lasting way. It hasn’t been all candy canes and rainbows, but the joy and fulfillment outweigh the struggle. I enjoy what I do, frustrations and all.&lt;br /&gt;
+ &lt;br /&gt;
+p.s. If you’re interested in this kind of work, we’re hiring for both &lt;a href=&quot;http://www.humanlongevity.com/careers/open-positions/&quot;&gt;career&lt;/a&gt; and &lt;a href=&quot;http://www.humanlongevity.com/hli-research-fellow/&quot;&gt;fellowship&lt;/a&gt; positions!  &lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;http://www.humanlongevity.com/careers/open-positions/&quot;&gt;&lt;img src=&quot;/images/research-fellows-banner.jpg&quot; width=&quot;450&quot; border=&quot;-20&quot; align=&quot;middle&quot; hspace=&quot;0&quot; /&gt; &lt;/a&gt;
+&lt;/figure&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/blog/job-search-so-far/&quot;&gt;Update on the job search so far&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on July 18, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/blog/sticking-landing-in-biotech/&quot;&gt;Sticking the landing in Biotech&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on June 30, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Taking the leap out of academia]]></title>
-  <link rel="alternate" type="text/html" href="/blog/leap-from-academia/" />
-  <id>/blog/leap-from-academia</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/blog/leap-from-academia/" />
+  <id>http://cyrusmaher.github.io/blog/leap-from-academia</id>
   <published>2014-07-15T00:00:00-07:00</published>
   <updated>2014-07-15T00:00:00-07:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri></uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Many bloggers have written vividly about the bittersweet process of leaving academia. Yet, the stories are strikingly similar. At a certain point, the pressure, the uncertainty, the long hours, the low-ish wages, and the endless moving from city to city simply become cumulatively unsustainable. One comes to realize that most of these circumstances do not recede if one beats the odds and lands a junior faculty position. For better or for worse, this is the deal. Do you like it or not?&lt;/p&gt;
 
 &lt;h4 id=&quot;thinking-about-leaving&quot;&gt;Thinking about leaving&lt;/h4&gt;
-&lt;p&gt;Personally, I feel…worn down by the whole process. I once overheard an undergraduate researcher ask a junior faculty member about getting into academic science. His reply was simple, “If you can imagine yourself doing anything else, go do that.” At the time I felt his advice to be a bit harsh. Now, I have to say that I get where he was coming from. So I’m going to go do something else. Similar to Lenny Teytelman’s &lt;a href=&quot;http://anothersb.blogspot.com/2014/02/goodbye-academia.html&quot;&gt;experience of leaving academia&lt;/a&gt;, “I feel liberated and happy, and this is a very bad sign for the future of life sciences in the United States.” Given how far this last part is from my locus of control, however, I’m focusing mostly on the “liberated and happy” part :)&lt;/p&gt;
+&lt;p&gt;Personally, I feel…worn down by the slow and uncertain grind through the academic ranks. I once overheard an undergraduate researcher ask a junior faculty member about getting into academic science. His reply was simple, “If you can imagine yourself doing anything else, go do that.” At the time I felt his advice to be a bit harsh. Now, I have to say that I get where he was coming from. So I’m going to go do something else. Similar to Lenny Teytelman’s &lt;a href=&quot;http://anothersb.blogspot.com/2014/02/goodbye-academia.html&quot;&gt;experience of leaving academia&lt;/a&gt;, “I feel liberated and happy, and this is a very bad sign for the future of life sciences in the United States.” Given how far this last part is from my locus of control, however, I’m focusing mostly on the “liberated and happy” part :)&lt;/p&gt;
 
 &lt;h4 id=&quot;the-data-behind-the-decision&quot;&gt;The data behind the decision&lt;/h4&gt;
 &lt;p&gt;As you can see below, in 2011 there were ~35,000 new PhD graduates, but only about ~3,000 faculty openings. Academic science is overstaffed, and that is leading to unhealthy levels of competition for those who remain. Despite this persistent trend, Francis Collins has stated that &lt;a href=&quot;http://www.nature.com/naturejobs/science/articles/10.1038/nj7508-255a&quot;&gt;he does not believe there is an oversupply of PhDs&lt;/a&gt;. This is partly because, even as the situation in academia is becoming increasingly dire, the “unreasonable effectiveness of data” is leading to an explosion of research positions in industries from advertising to &lt;a href=&quot;http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_06_13/science.opms.r1400143&quot;&gt;biomedicine&lt;/a&gt;. In short, we &lt;em&gt;are&lt;/em&gt; needed, but mostly not in academia.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;a href=&quot;http://anothersb.blogspot.com/2014/07/who-will-train-tomorrows-scientists.html&quot;&gt;&lt;img src=&quot;/images/ScienceOverstaffed.jpg&quot; height=&quot;400&quot; width=&quot;600&quot; border=&quot;500&quot; align=&quot;middle&quot; /&gt; &lt;/a&gt;
+    &lt;a href=&quot;http://anothersb.blogspot.com/2014/07/who-will-train-tomorrows-scientists.html&quot;&gt;&lt;img src=&quot;http://cyrusmaher.github.io/images/ScienceOverstaffed.jpg&quot; height=&quot;400&quot; width=&quot;600&quot; border=&quot;500&quot; align=&quot;middle&quot; /&gt; &lt;/a&gt;
 &lt;/figure&gt;
 
 &lt;h4 id=&quot;making-the-leap&quot;&gt;Making the leap&lt;/h4&gt;
@@ -63,7 +84,7 @@
 &lt;p&gt;I provide this anecdote a.) because I’m proud of my dad, and b.) to make the point that there are (many) jobs in industry where you can have good career opportunities, solid pay, a high quality of life, &lt;em&gt;and&lt;/em&gt; make a real impact. For someone who doesn’t mind being a little picky, I honestly don’t see a downside to taking the leap.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;/images/skydive.jpg&quot; height=&quot;250&quot; width=&quot;300&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
+    &lt;img src=&quot;http://cyrusmaher.github.io/images/skydive.jpg&quot; height=&quot;250&quot; width=&quot;300&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
     &lt;figcaption&gt;&lt;i&gt;In fact, sometimes leaps can be a lot of fun.&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -120,31 +141,27 @@ bullish about academia as I knew it and increasingly uncertain it was the right 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;keith-yamamoto-time-to-rethink-grad-and-postdoc-education&quot;&gt;Keith Yamamoto: Time to rethink grad and postdoc education&lt;/h4&gt;
-&lt;iframe width=&quot;854&quot; height=&quot;510&quot; src=&quot;//www.youtube.com/embed/10DAHpA_B9k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h4 id=&quot;a-look-at-the-system&quot;&gt;A look at the system&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.pnas.org/content/111/16/5773.full&quot;&gt;Rescuing Biomedical Research&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.michaeleisen.org/blog/?p=1270&quot;&gt;Michael Eisen’s take on how to fix things&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.nature.com/naturejobs/science/articles/10.1038/nj7508-255a&quot;&gt;PhD Overdrive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sciencemag.org/content/345/6199/885.2.short&quot;&gt;Ailing academia needs culture change&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/blog/leap-from-academia/&quot;&gt;Taking the leap out of academia&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on July 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/blog/leap-from-academia/&quot;&gt;Taking the leap out of academia&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on July 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[CauseMap: Submitted to Bioinformatics!]]></title>
-  <link rel="alternate" type="text/html" href="/projects/CauseMap-Submitted/" />
-  <id>/projects/CauseMap-Submitted</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/projects/CauseMap-Submitted/" />
+  <id>http://cyrusmaher.github.io/projects/CauseMap-Submitted</id>
   <published>2014-06-24T00:00:00-07:00</published>
   <updated>2014-06-24T00:00:00-07:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri></uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I’ve long been interested in how we can understand complex systems without dissecting out the interdependence 
@@ -153,19 +170,19 @@ can provide, but from the data analysis side, I think there’s much more we can
 
 &lt;p&gt;As a step in that direction, I’ve created CauseMap, an implementation of convergent cross mapping, a method developed by the &lt;a href=&quot;http://scrippsscholars.ucsd.edu/gsugihara&quot;&gt;Sugihara group&lt;/a&gt; at UCSD. The method is fairly different from what most have been exposed to, so I’ve tried to consolidate some useful explanatory resources on the project website. Check it out at &lt;a href=&quot;cyrusmaher.github.io/CauseMap.jl&quot;&gt;cyrusmaher.github.io/CauseMap.jl&lt;/a&gt;!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/projects/CauseMap-Submitted/&quot;&gt;CauseMap: Submitted to Bioinformatics!&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on June 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/projects/CauseMap-Submitted/&quot;&gt;CauseMap: Submitted to Bioinformatics!&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on June 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[MOSAIC: stalled by sneer review]]></title>
-  <link rel="alternate" type="text/html" href="/projects/MOSAIC-Rejected/" />
-  <id>/projects/MOSAIC-Rejected</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/projects/MOSAIC-Rejected/" />
+  <id>http://cyrusmaher.github.io/projects/MOSAIC-Rejected</id>
   <published>2014-05-28T00:00:00-07:00</published>
   <updated>2014-05-28T00:00:00-07:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri></uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Problems with peer review are par for the course in academia. Not every reviewer will be evaluating work that is entirely within their area of expertise. Cranky misunderstandings about methodological issues are to be expected, but can be dealt with respectfully and even painlessly. &lt;/p&gt;
@@ -190,19 +207,19 @@ can provide, but from the data analysis side, I think there’s much more we can
 
 &lt;p&gt;&lt;em&gt;Update: After much deliberation, we decided to challenge MBE’s decision. The paper is currently under review once again…&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/projects/MOSAIC-Rejected/&quot;&gt;MOSAIC: stalled by sneer review&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on May 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/projects/MOSAIC-Rejected/&quot;&gt;MOSAIC: stalled by sneer review&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on May 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[MOSAIC: Haldane's Sieve blog post is up!]]></title>
-  <link rel="alternate" type="text/html" href="/projects/HS-MOSAIC/" />
-  <id>/projects/HS-MOSAIC</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/projects/HS-MOSAIC/" />
+  <id>http://cyrusmaher.github.io/projects/HS-MOSAIC</id>
   <published>2013-10-21T00:00:00-07:00</published>
   <updated>2013-10-21T00:00:00-07:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri></uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;style type=&quot;text/css&quot;&gt;
@@ -218,12 +235,12 @@ can provide, but from the data analysis side, I think there’s much more we can
 &lt;p&gt;A couple weeks back, we posted the &lt;a href=&quot;http://arxiv.org/abs/1309.2319&quot;&gt;manuscript&lt;/a&gt; for our new ortholog detection method, MOSAIC . Since then, we’ve had the opportunity to blog about it on Haldane’s sieve. You can read the post &lt;a href=&quot;http://haldanessieve.org/2013/10/21/author-post-a-mosaic-of-methods-improving-ortholog-detection-through-integration-of-algorithmic-diversity/&quot;&gt;here&lt;/a&gt;. Below is a little teaser, showing that ortholog methods frequently outperform one another. This motivates the development of MOSAIC as a way to take advantage of this complementarity.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;/images/PairwiseHeatMap_Blues_pluslab_neworder.png&quot; height=&quot;400&quot; width=&quot;400&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt;
+    &lt;img src=&quot;http://cyrusmaher.github.io/images/PairwiseHeatMap_Blues_pluslab_neworder.png&quot; height=&quot;400&quot; width=&quot;400&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt;
     &lt;figcaption&gt;&lt;b&gt;Comparison of sequence identity levels between methods &lt;/b&gt; A.) Heat map of the percent of orthologs for which BLAT (BL), OMA (OMA), MultiParanoid (MP), and MultiZ (MZ) outperform one another. Performance is based on percent identity of each method’s orthologs to the human sequence. One method is considered to outperform another method if it improves percent identity by at least five percentage points. Text in diagonal cells shows the number of orthologs identified by each method, colored by the percent of transcripts at which a given method outperforms all the others.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/projects/HS-MOSAIC/&quot;&gt;MOSAIC: Haldane's Sieve blog post is up!&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on October 21, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/projects/HS-MOSAIC/&quot;&gt;MOSAIC: Haldane's Sieve blog post is up!&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on October 21, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
