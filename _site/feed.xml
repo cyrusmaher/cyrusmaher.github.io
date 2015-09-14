@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">cyrusmaher.github.io</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-09-14T07:10:51-07:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://cyrusmaher.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://cyrusmaher.github.io" />
+<updated>2015-09-14T07:12:03-07:00</updated>
+<id>http://cyrusmaher.github.io/</id>
 <author>
   <name>Cyrus Maher</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://cyrusmaher.github.io/</uri>
   <email>cyrusmaher@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Sticking the landing in Biotech]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/sticking-landing-in-biotech/" />
-  <id>http://localhost:4000/blog/sticking-landing-in-biotech</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/blog/sticking-landing-in-biotech/" />
+  <id>http://cyrusmaher.github.io/blog/sticking-landing-in-biotech</id>
   <published>2015-06-30T00:00:00-07:00</published>
   <updated>2015-06-30T00:00:00-07:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;It has been nearly a year since I decided to forego a post-doctoral research position in favor of applying directly to jobs in biotech. I am  so happy I did!! Let me tell you why :)&lt;/p&gt;
@@ -48,19 +48,19 @@ p.s. If you’re interested in this kind of work, we’re hiring for both &lt;a 
 &lt;/figure&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/sticking-landing-in-biotech/&quot;&gt;Sticking the landing in Biotech&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://localhost:4000&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on June 30, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/blog/sticking-landing-in-biotech/&quot;&gt;Sticking the landing in Biotech&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on June 30, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[CauseMap: Published in PeerJ!]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/projects/CauseMap-Published/" />
-  <id>http://localhost:4000/projects/CauseMap-Published</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/projects/CauseMap-Published/" />
+  <id>http://cyrusmaher.github.io/projects/CauseMap-Published</id>
   <published>2015-03-05T00:00:00-08:00</published>
   <updated>2015-03-05T00:00:00-08:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;It’s my pleasure to announce that our paper, &lt;a href=&quot;https://peerj.com/articles/824/&quot;&gt;“&lt;em&gt;CauseMap: fast inference of causality from complex time series&lt;/em&gt;”&lt;/a&gt; is now available online at &lt;a href=&quot;https://peerj.com/&quot;&gt;PeerJ&lt;/a&gt;. For those who aren’t familiar with PeerJ (it’s a relatively new journal), definitely give it a look. This submission was hands-down the best publishing experience I’ve had. A couple points that were particularly refreshing: 1.) we got back responses within weeks instead of months. 2.) our reviewers provided helpful, civil feedback clearly geared toward improving the manuscript, and 3.) we were able to submit the manuscript through a sleek, modern web interface that significantly cut down the administrative overhead of the submission process. So many thanks to PeerJ for an excellent open access publishing experience :)&lt;/p&gt;
@@ -68,23 +68,23 @@ p.s. If you’re interested in this kind of work, we’re hiring for both &lt;a 
 &lt;p&gt;A bit about the paper: we present the first open source implementation of Convergent Cross Mapping (CCM), an algorithm developed by the &lt;a href=&quot;http://scrippsscholars.ucsd.edu/gsugihara&quot;&gt;Sugihara group&lt;/a&gt; at UCSD. This is method is useful for robust causal inference from time series data. Unlike popular tools such as time-lagged regression, instrumental variables, etc.; CCM explicitly accounts for high-dimensional system dynamics encoded within time series data. In fact it’s these details that allow us to establish causality, even in the presence of confounding and interdependent non-linearity. For more details, feel free to check out the &lt;a href=&quot;https://peerj.com/articles/824/&quot;&gt;paper&lt;/a&gt; or &lt;a href=&quot;cyrusmaher.github.io/CauseMap.jl&quot;&gt;cyrusmaher.github.io/CauseMap.jl&lt;/a&gt;!&lt;/p&gt;
 
 &lt;figure align=&quot;center&quot;&gt;
-    &lt;img src=&quot;http://localhost:4000/images/Causemap_fit.jpg&quot; width=&quot;500&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
+    &lt;img src=&quot;http://cyrusmaher.github.io/images/Causemap_fit.jpg&quot; width=&quot;500&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
     &lt;figcaption align=&quot;left&quot;&gt;&lt;i&gt;Figure 1: An example visualization from CauseMap using abundances of Paramecium aurelia and Didinium nasutum (a predator-prey system). (A) For optimal parameter values, the convergence of the cross-map correlation with library size. (B–C). The dependence of the maximum cross-map correlation on assumed dimensionality (measured by E) and the time lag of the causal effect (measured by τp). Note that the second maximum at τp = 5 corresponds to the principal frequency of the P. aurelia and D. nasutum time series, as determined by Fourier transform analysis.&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/projects/CauseMap-Published/&quot;&gt;CauseMap: Published in PeerJ!&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://localhost:4000&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on March 05, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/projects/CauseMap-Published/&quot;&gt;CauseMap: Published in PeerJ!&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on March 05, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[MOSAIC: back and better than ever]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/projects/MOSAIC-Reborn/" />
-  <id>http://localhost:4000/projects/MOSAIC-Reborn</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/projects/MOSAIC-Reborn/" />
+  <id>http://cyrusmaher.github.io/projects/MOSAIC-Reborn</id>
   <published>2015-02-23T00:00:00-08:00</published>
   <updated>2015-02-23T00:00:00-08:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;In our &lt;a href=&quot;/projects/MOSAIC-Rejected/&quot;&gt;last update&lt;/a&gt;, I described the rejection of our comparative genomic method paper based on the concerns of a single reviewer. These concerns were clearly addressed both in figures and in the main text. However, we could have made the presentation clearer and more considerate to a broader audience of, e.g. interested (but potentially overworked) non-experts.&lt;/p&gt;
@@ -92,38 +92,38 @@ p.s. If you’re interested in this kind of work, we’re hiring for both &lt;a 
 &lt;p&gt;Today, I’m happy to report that that our paper has been accepted to &lt;em&gt;Genes, Genomes, and Genetics (G3)&lt;/em&gt; under the title &lt;a href=&quot;http://www.g3journal.org/content/5/4/629.long&quot;&gt;“Rock, paper, scissors: harnessing complementarity in ortholog detection methods improves comparative genomic inference.”&lt;/a&gt; They say that rejection tends to improve the quality and impact of manuscripts (&lt;a href=&quot;http://www.nature.com/news/rejection-improves-eventual-impact-of-manuscripts-1.11583&quot;&gt;see write-up&lt;/a&gt;). In our case, I think that the extra time and improved focus on clarity and approachability absolutely improved the presentation of the method.&lt;/p&gt;
 
 &lt;figure align=&quot;center&quot;&gt;
-    &lt;img src=&quot;http://localhost:4000/images/MOSAIC_opt.jpg&quot; width=&quot;300&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
+    &lt;img src=&quot;http://cyrusmaher.github.io/images/MOSAIC_opt.jpg&quot; width=&quot;300&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
     &lt;figcaption align=&quot;left&quot;&gt;&lt;i&gt;A schematic of MOSAIC&#39;s sequence selection algorithm. Steps: (1) Construct graph; (2) Choose the sequence from a random OD method for each species; (3) Iterate through species. For each species, pick the orthologs with highest similarity to the current best choices for all other species; (4) Return current best choices if no changes are made after iterating through all species; (5) To find global optimum, repeat steps 1-4 with random sampling paths.&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;A bit of background on the paper: comparative genomics often relies on the comparison of evolutionarily related sequences from different species (orthologs). Many methods analyze orthologous sequences, but what happens if the orthologs themselves are poorly called? In our experience, this leads to a “garbage in, garbage out” scenario. For this reason, we were motived to improve ortholog detection by building a statistical framework for harnessing the deep complementarity between methodologically diverse ortholog detection methods. &lt;/p&gt;
 
 &lt;figure align=&quot;middle&quot;&gt;
-    &lt;img src=&quot;http://localhost:4000/images/MOSAIC_MSA.jpg&quot; height=&quot;400&quot; width=&quot;500&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
+    &lt;img src=&quot;http://cyrusmaher.github.io/images/MOSAIC_MSA.jpg&quot; height=&quot;400&quot; width=&quot;500&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
     &lt;figcaption align=&quot;left&quot;&gt;&lt;i&gt;The result of sequence integration for carbonic anhydrase 12. Orthologs that were not returned for a given species are denoted with a horizontal black bar. Those that were filtered using pre-integration sequence identity cutoffs are indicated with gray bars with the global percent identity from pairwise alignment to human included. Species name label colors denote the species of origin for orthologs in the MOSAIC alignment.&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;In “Paper, Rock, Scissors”, 1.) we demonstrate this methodological complementarity, 2.) we develop a tool for taking advantage of it, 3.) we show that our tool maintains or improves data quality across wide variety of measures while also retrieving a great deal more sequences, and 4.) apply our method to find an intriguing and otherwise undetectable positively selected site in TPSAB1, an enzyme linked to asthma, heart disease, and irritable bowel disease. &lt;/p&gt;
 
 &lt;figure align=&quot;middle&quot;&gt;
-    &lt;img src=&quot;http://localhost:4000/images/MOSAIC_PSS.jpg&quot; height=&quot;400&quot; width=&quot;450&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
+    &lt;img src=&quot;http://cyrusmaher.github.io/images/MOSAIC_PSS.jpg&quot; height=&quot;400&quot; width=&quot;450&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
     &lt;figcaption align=&quot;left&quot;&gt;&lt;i&gt;Example: a MOSAIC-specific PSS in Tryptase Alpha/Beta 1 (TPSAB1). The tetrameric TPSAB1 structure is shown with positively selected sites highlighted. The site detected by component methods and by MOSAIC is colored orange, whereas the MOSAIC-specific PSS is featured in red. A bound inhibitor (white) pinpoints the active site of the enzyme.&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/projects/MOSAIC-Reborn/&quot;&gt;MOSAIC: back and better than ever&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://localhost:4000&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on February 23, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/projects/MOSAIC-Reborn/&quot;&gt;MOSAIC: back and better than ever&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on February 23, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Taking the leap out of academia]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/leap-from-academia/" />
-  <id>http://localhost:4000/blog/leap-from-academia</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/blog/leap-from-academia/" />
+  <id>http://cyrusmaher.github.io/blog/leap-from-academia</id>
   <published>2014-07-15T00:00:00-07:00</published>
   <updated>2014-07-15T00:00:00-07:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Many bloggers have written vividly about the bittersweet process of leaving academia. Yet, the stories are strikingly similar. At a certain point, the pressure, the uncertainty, the long hours, the low-ish wages, and the endless moving from city to city simply become cumulatively unsustainable. One comes to realize that most of these circumstances do not recede if one beats the odds and lands a junior faculty position. For better or for worse, this is the deal. Do you like it or not?&lt;/p&gt;
@@ -135,7 +135,7 @@ p.s. If you’re interested in this kind of work, we’re hiring for both &lt;a 
 &lt;p&gt;As you can see below, in 2011 there were ~35,000 new PhD graduates, but only about ~3,000 faculty openings. Academic science is overstaffed, and that is leading to unhealthy levels of competition for those who remain. Despite this persistent trend, Francis Collins has stated that &lt;a href=&quot;http://www.nature.com/naturejobs/science/articles/10.1038/nj7508-255a&quot;&gt;he does not believe there is an oversupply of PhDs&lt;/a&gt;. This is partly because, even as the situation in academia is becoming increasingly dire, the “unreasonable effectiveness of data” is leading to an explosion of research positions in industries from advertising to &lt;a href=&quot;http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_06_13/science.opms.r1400143&quot;&gt;biomedicine&lt;/a&gt;. In short, we &lt;em&gt;are&lt;/em&gt; needed, but mostly not in academia.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;a href=&quot;http://anothersb.blogspot.com/2014/07/who-will-train-tomorrows-scientists.html&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/ScienceOverstaffed.jpg&quot; height=&quot;400&quot; width=&quot;600&quot; border=&quot;500&quot; align=&quot;middle&quot; /&gt; &lt;/a&gt;
+    &lt;a href=&quot;http://anothersb.blogspot.com/2014/07/who-will-train-tomorrows-scientists.html&quot;&gt;&lt;img src=&quot;http://cyrusmaher.github.io/images/ScienceOverstaffed.jpg&quot; height=&quot;400&quot; width=&quot;600&quot; border=&quot;500&quot; align=&quot;middle&quot; /&gt; &lt;/a&gt;
 &lt;/figure&gt;
 
 &lt;h4 id=&quot;making-the-leap&quot;&gt;Making the leap&lt;/h4&gt;
@@ -147,7 +147,7 @@ p.s. If you’re interested in this kind of work, we’re hiring for both &lt;a 
 &lt;p&gt;I provide this anecdote a.) because I’m proud of my dad, and b.) to make the point that there are (many) jobs in industry where you can have good career opportunities, solid pay, a high quality of life, &lt;em&gt;and&lt;/em&gt; make a real impact. For someone who doesn’t mind being a little picky, I honestly don’t see a downside to taking the leap.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;http://localhost:4000/images/skydive.jpg&quot; height=&quot;250&quot; width=&quot;300&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
+    &lt;img src=&quot;http://cyrusmaher.github.io/images/skydive.jpg&quot; height=&quot;250&quot; width=&quot;300&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
     &lt;figcaption&gt;&lt;i&gt;In fact, sometimes leaps can be a lot of fun.&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -212,19 +212,19 @@ bullish about academia as I knew it and increasingly uncertain it was the right 
   &lt;li&gt;&lt;a href=&quot;http://www.sciencemag.org/content/345/6199/885.2.short&quot;&gt;Ailing academia needs culture change&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/leap-from-academia/&quot;&gt;Taking the leap out of academia&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://localhost:4000&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on July 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/blog/leap-from-academia/&quot;&gt;Taking the leap out of academia&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on July 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[CauseMap: Submitted to Bioinformatics!]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/projects/CauseMap-Submitted/" />
-  <id>http://localhost:4000/projects/CauseMap-Submitted</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/projects/CauseMap-Submitted/" />
+  <id>http://cyrusmaher.github.io/projects/CauseMap-Submitted</id>
   <published>2014-06-24T00:00:00-07:00</published>
   <updated>2014-06-24T00:00:00-07:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I’ve long been interested in how we can understand complex systems without dissecting out the interdependence 
@@ -233,19 +233,19 @@ can provide, but from the data analysis side, I think there’s much more we can
 
 &lt;p&gt;As a step in that direction, I’ve created CauseMap, an implementation of convergent cross mapping, a method developed by the &lt;a href=&quot;http://scrippsscholars.ucsd.edu/gsugihara&quot;&gt;Sugihara group&lt;/a&gt; at UCSD. The method is fairly different from what most have been exposed to, so I’ve tried to consolidate some useful explanatory resources on the project website. Check it out at &lt;a href=&quot;cyrusmaher.github.io/CauseMap.jl&quot;&gt;cyrusmaher.github.io/CauseMap.jl&lt;/a&gt;!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/projects/CauseMap-Submitted/&quot;&gt;CauseMap: Submitted to Bioinformatics!&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://localhost:4000&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on June 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/projects/CauseMap-Submitted/&quot;&gt;CauseMap: Submitted to Bioinformatics!&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on June 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[MOSAIC: stalled by sneer review]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/projects/MOSAIC-Rejected/" />
-  <id>http://localhost:4000/projects/MOSAIC-Rejected</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/projects/MOSAIC-Rejected/" />
+  <id>http://cyrusmaher.github.io/projects/MOSAIC-Rejected</id>
   <published>2014-05-28T00:00:00-07:00</published>
   <updated>2014-05-28T00:00:00-07:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Problems with peer review are par for the course in academia. Not every reviewer will be evaluating work that is entirely within their area of expertise. Cranky misunderstandings about methodological issues are to be expected, but can be dealt with respectfully and even painlessly. &lt;/p&gt;
@@ -270,19 +270,19 @@ can provide, but from the data analysis side, I think there’s much more we can
 
 &lt;p&gt;&lt;em&gt;Update: After much deliberation, we decided to challenge MBE’s decision. The paper is currently under review once again…&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/projects/MOSAIC-Rejected/&quot;&gt;MOSAIC: stalled by sneer review&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://localhost:4000&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on May 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/projects/MOSAIC-Rejected/&quot;&gt;MOSAIC: stalled by sneer review&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on May 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[MOSAIC: Haldane's Sieve blog post is up!]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/projects/HS-MOSAIC/" />
-  <id>http://localhost:4000/projects/HS-MOSAIC</id>
+  <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io/projects/HS-MOSAIC/" />
+  <id>http://cyrusmaher.github.io/projects/HS-MOSAIC</id>
   <published>2013-10-21T00:00:00-07:00</published>
   <updated>2013-10-21T00:00:00-07:00</updated>
   <author>
     <name>Cyrus Maher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://cyrusmaher.github.io</uri>
     <email>cyrusmaher@gmail.com</email>
   </author>
   <content type="html">&lt;style type=&quot;text/css&quot;&gt;
@@ -298,12 +298,12 @@ can provide, but from the data analysis side, I think there’s much more we can
 &lt;p&gt;A couple weeks back, we posted the &lt;a href=&quot;http://arxiv.org/abs/1309.2319&quot;&gt;manuscript&lt;/a&gt; for our new ortholog detection method, MOSAIC . Since then, we’ve had the opportunity to blog about it on Haldane’s sieve. You can read the post &lt;a href=&quot;http://haldanessieve.org/2013/10/21/author-post-a-mosaic-of-methods-improving-ortholog-detection-through-integration-of-algorithmic-diversity/&quot;&gt;here&lt;/a&gt;. Below is a little teaser, showing that ortholog methods frequently outperform one another. This motivates the development of MOSAIC as a way to take advantage of this complementarity.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;http://localhost:4000/images/PairwiseHeatMap_Blues_pluslab_neworder.png&quot; height=&quot;400&quot; width=&quot;400&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt;
+    &lt;img src=&quot;http://cyrusmaher.github.io/images/PairwiseHeatMap_Blues_pluslab_neworder.png&quot; height=&quot;400&quot; width=&quot;400&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt;
     &lt;figcaption&gt;&lt;b&gt;Comparison of sequence identity levels between methods &lt;/b&gt; A.) Heat map of the percent of orthologs for which BLAT (BL), OMA (OMA), MultiParanoid (MP), and MultiZ (MZ) outperform one another. Performance is based on percent identity of each method’s orthologs to the human sequence. One method is considered to outperform another method if it improves percent identity by at least five percentage points. Text in diagonal cells shows the number of orthologs identified by each method, colored by the percent of transcripts at which a given method outperforms all the others.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/projects/HS-MOSAIC/&quot;&gt;MOSAIC: Haldane's Sieve blog post is up!&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://localhost:4000&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on October 21, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://cyrusmaher.github.io/projects/HS-MOSAIC/&quot;&gt;MOSAIC: Haldane's Sieve blog post is up!&lt;/a&gt; was originally published by Cyrus Maher at &lt;a href=&quot;http://cyrusmaher.github.io&quot;&gt;cyrusmaher.github.io&lt;/a&gt; on October 21, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
