@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://cyrusmaher.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://cyrusmaher.github.io" />
-<updated>2015-09-14T07:12:03-07:00</updated>
+<updated>2015-09-17T08:47:57-07:00</updated>
 <id>http://cyrusmaher.github.io/</id>
 <author>
   <name>Cyrus Maher</name>
@@ -65,10 +65,10 @@ p.s. If you’re interested in this kind of work, we’re hiring for both &lt;a 
   </author>
   <content type="html">&lt;p&gt;It’s my pleasure to announce that our paper, &lt;a href=&quot;https://peerj.com/articles/824/&quot;&gt;“&lt;em&gt;CauseMap: fast inference of causality from complex time series&lt;/em&gt;”&lt;/a&gt; is now available online at &lt;a href=&quot;https://peerj.com/&quot;&gt;PeerJ&lt;/a&gt;. For those who aren’t familiar with PeerJ (it’s a relatively new journal), definitely give it a look. This submission was hands-down the best publishing experience I’ve had. A couple points that were particularly refreshing: 1.) we got back responses within weeks instead of months. 2.) our reviewers provided helpful, civil feedback clearly geared toward improving the manuscript, and 3.) we were able to submit the manuscript through a sleek, modern web interface that significantly cut down the administrative overhead of the submission process. So many thanks to PeerJ for an excellent open access publishing experience :)&lt;/p&gt;
 
-&lt;p&gt;A bit about the paper: we present the first open source implementation of Convergent Cross Mapping (CCM), an algorithm developed by the &lt;a href=&quot;http://scrippsscholars.ucsd.edu/gsugihara&quot;&gt;Sugihara group&lt;/a&gt; at UCSD. This is method is useful for robust causal inference from time series data. Unlike popular tools such as time-lagged regression, instrumental variables, etc.; CCM explicitly accounts for high-dimensional system dynamics encoded within time series data. In fact it’s these details that allow us to establish causality, even in the presence of confounding and interdependent non-linearity. For more details, feel free to check out the &lt;a href=&quot;https://peerj.com/articles/824/&quot;&gt;paper&lt;/a&gt; or &lt;a href=&quot;cyrusmaher.github.io/CauseMap.jl&quot;&gt;cyrusmaher.github.io/CauseMap.jl&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;A bit about the paper: we present the first open source implementation of Convergent Cross Mapping (CCM), an algorithm developed by the &lt;a href=&quot;http://scrippsscholars.ucsd.edu/gsugihara&quot;&gt;Sugihara group&lt;/a&gt; at UCSD. This is method is useful for robust causal inference from time series data. Unlike popular tools such as time-lagged regression, instrumental variables, etc.; CCM explicitly accounts for high-dimensional system dynamics encoded within time series data. In fact it’s these details that allow us to establish causality, even in the presence of confounding and interdependent non-linearity. For more details, feel free to check out the &lt;a href=&quot;https://peerj.com/articles/824/&quot;&gt;paper&lt;/a&gt; or &lt;a href=&quot;http://cyrusmaher.github.io/CauseMap.jl&quot;&gt;cyrusmaher.github.io/CauseMap.jl&lt;/a&gt;!&lt;/p&gt;
 
 &lt;figure align=&quot;center&quot;&gt;
-    &lt;img src=&quot;http://cyrusmaher.github.io/images/Causemap_fit.jpg&quot; width=&quot;500&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
+    &lt;img src=&quot;http://cyrusmaher.github.io/images/CauseMap_fit.jpg&quot; width=&quot;500&quot; border=&quot;0&quot; align=&quot;middle&quot; /&gt; 
     &lt;figcaption align=&quot;left&quot;&gt;&lt;i&gt;Figure 1: An example visualization from CauseMap using abundances of Paramecium aurelia and Didinium nasutum (a predator-prey system). (A) For optimal parameter values, the convergence of the cross-map correlation with library size. (B–C). The dependence of the maximum cross-map correlation on assumed dimensionality (measured by E) and the time lag of the causal effect (measured by τp). Note that the second maximum at τp = 5 corresponds to the principal frequency of the P. aurelia and D. nasutum time series, as determined by Fourier transform analysis.&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
